@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarabettio
+- 👋 Hi, I’m Sara Bettio
 - 👀 I’m interested in coding, computer science, data science and AI.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ...
